@@ -1,1 +1,1 @@
-# fitness-fiends
+# Fitness Fiends
