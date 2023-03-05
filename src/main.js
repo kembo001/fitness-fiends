@@ -3,7 +3,7 @@ const http = require("http")
 
 http
 .createServer((req, res)=>{
-    let output = "Hello Worldddd!!!";
+    let output = "Fitness Fiends website";
     res.end(output)
 }).listen(3000)
 
